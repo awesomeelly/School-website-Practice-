@@ -136,8 +136,8 @@ a:hover{color:gold;}
 .graduation{margin-left:10px;}
 
       
-img{height:200px;
-    width:150px;}
+img{height:400px;
+    width:400px;}
       
 .gallery{display:grid;
          grid-template-columns:1fr 1fr;
